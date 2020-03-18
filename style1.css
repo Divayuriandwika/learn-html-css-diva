@@ -1,0 +1,102 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+section{
+    display: block;
+}
+#gambar1{
+    background-color: mistyrose;
+}
+#gambar-2{
+    width: 150px;
+    border-radius: 15px 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+#gambar3{
+    width: 55%;
+    margin: 0 auto;
+}
+
+hr{
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#kumpulan{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    display: block;
+}
+
+.kotak{
+    width: 20%;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: mistyrose;
+}
+
+#gambar4{
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#gambar5{
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#gambar6{
+    width: 115px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    }
+
+    footer{
+        display: block
+    }
+
+    footer a {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    a:-webkit-any-link {
+        color: -webkit-link;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+    a:-webkit-any-link {
+        color: -webkit-link;
+        cursor: pointer;
+    }
+
+    #gambar7{
+    width: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+    }
+
+    #gambar8{
+        width: 40px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    
+        }
+
+  
+
